@@ -1,0 +1,25 @@
+
+.ConsultarCliente{
+  padding-top: 8%;
+  padding-left: 5%;
+}
+
+.BuscarCliente{
+  padding-top: 5%;
+  padding-left: 5%;
+}
+
+.btnBuscarcliente{
+  padding-top: 5%;
+  padding-left: 5%;
+}
+
+.RegistrarConsulta{
+  box-sizing: border-box;
+  background-color: white;
+  max-width: 800px;
+  width: 90%;
+  margin: auto;
+  padding: 40px;
+}
+
